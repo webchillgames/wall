@@ -1,0 +1,18 @@
+body,
+html,
+.wall {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+.wall {
+    box-sizing: border-box;
+    position: relative;
+}
+
+.box {
+    position: absolute;
+}
